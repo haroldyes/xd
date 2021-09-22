@@ -1,2 +1,1 @@
-# xd
-xd
+https://haroldyes.github.io/xd/
