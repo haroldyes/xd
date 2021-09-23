@@ -1,1 +1,1 @@
-# https://haroldyes.github.io/xd/
+Simple backend chatterino badge altering hosted through github webspace, no actual reflection the the official chatterino client or their list of badges on the chatterino api -- https://api.chatterino.com/badges
